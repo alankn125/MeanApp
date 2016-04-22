@@ -1,5 +1,6 @@
-angular.module('sampleApp', [
+angular.module('picAlert', [
   'ngRoute',
   'appRoutes',
-  'HomeCtrl'
+  'HomeCtrl',
+  '404Ctrl'
 ]);

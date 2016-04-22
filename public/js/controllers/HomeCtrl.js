@@ -1,3 +1,3 @@
-angular.module('MainCtrl', []).controller('MainController', function($scope) {
+angular.module('HomeCtrl', []).controller('HomeController', function($scope) {
     
 });
