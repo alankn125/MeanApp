@@ -1,14 +1,30 @@
 {
-    "name": "picalert_bower",
-    "version": "1.0.0",
-    "dependencies": {
-        "bootstrap": "latest",
-        "font-awesome": "latest",
-        "animate.css": "latest",
-        "angular": "latest",
-        "angular-route": "latest",
-        "jQuery":"latest",
-        "trianglify":"latest",
-        "ideal-image-slider":"latest"
-    }
+  "name": "picalert_bower",
+  "version": "1.0.0",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "latest",
+    "animate.css": "latest",
+    "angular": "latest",
+    "angular-route": "latest",
+    "jQuery": "latest",
+    "trianglify": "latest",
+    "ideal-image-slider": "latest"
+  },
+  "homepage": "https://github.com/alankn125/MeanApp",
+  "authors": [
+    "alan"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ]
 }
